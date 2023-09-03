@@ -1,4 +1,4 @@
-# Project-1
+# SQl Project on Square Pharma
 Data Analytics
 This is an SQL project for Square Pharma 
 where I have created tables and relationships to define how PMD of a 
